@@ -2,7 +2,7 @@ machine:
   environment:
     # The github organization or username of the repository which hosts the
     # project and documentation.
-    USERNAME: "scikit-learn-contrib"
+    USERNAME: "dmbee"
 
     # The repository where the documentation will be hosted
     DOC_REPO: "project-template"
@@ -11,7 +11,7 @@ machine:
     DOC_URL: ""
 
     # The email is to be used for commits in the Github Page
-    EMAIL: "vnb222+ci@nyu.edu"
+    EMAIL: "david.mo.burns@gmail.com"
 
 dependencies:
 
